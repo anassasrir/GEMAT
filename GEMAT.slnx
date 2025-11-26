@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="GEMAT/GEMAT.csproj" />
+  <Folder Name="/Projects/" />
+  <Project Path="GEMAT.Core/GEMAT.Core.csproj" />
+  <Project Path="GEMAT/GEMAT.Utils.csproj" />
 </Solution>
