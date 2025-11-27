@@ -1,6 +1,7 @@
 <Solution>
-  <Folder Name="/Projects/" />
+  <Folder Name="/Projects/">
+    <Project Path="GEMAT.Projects.ThisIsBlast/GEMAT.Projects.ThisIsBlast.csproj" />
+  </Folder>
   <Project Path="GEMAT.Core/GEMAT.Core.csproj" />
-  <Project Path="GEMAT.Projects.ThisIsBlast/GEMAT.Projects.ThisIsBlast.csproj" />
   <Project Path="GEMAT/GEMAT.Utils.csproj" />
 </Solution>
